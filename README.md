@@ -1,0 +1,2 @@
+# Liberty_crawl
+利用nodejs的request和cheerio模組，抓取指定日期和類別的自由時報新聞
